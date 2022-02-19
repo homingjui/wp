@@ -1,0 +1,26 @@
+2022-02-19T07:37:28+00:00 CRITICAL syntax error, unexpected 'do_action' (T_STRING) 於 /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart.php 在 20 線上
+
+2022-02-19T07:44:43+00:00 CRITICAL Uncaught Error: Object of class WC_Shipping_Rate could not be converted to string in /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart-shipping.php:45
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(235): wc_get_template()
+#2 /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart-totals.php(45): wc_cart_totals_shipping_html()
+#3 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/html/w...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2115): wc_get_template()
+#5 /var/www/html/wp-includes/class-wp-hook.php(307): woocommerce_cart_totals()
+#6 /var/www/html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#7 /var/www/html/wp-includes/plugin.php(474): WP_Hook->do_action()
+#8 /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart.php(172): do_acti 於 /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart-shipping.php 在 45 線上
+
+2022-02-19T07:45:16+00:00 CRITICAL Uncaught Error: Object of class WC_Shipping_Rate could not be converted to string in /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart-shipping.php:45
+Stack trace:
+#0 /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart-shipping.php(45): printf()
+#1 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/html/w...')
+#2 /var/www/html/wp-content/plugins/woocommerce/includes/wc-cart-functions.php(235): wc_get_template()
+#3 /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart-totals.php(45): wc_cart_totals_shipping_html()
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/wc-core-functions.php(345): include('/var/www/html/w...')
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/wc-template-functions.php(2115): wc_get_template()
+#6 /var/www/html/wp-includes/class-wp-hook.php(307): woocommerce_cart_totals()
+#7 /var/www/html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters()
+#8 /var/www/html/wp-includes/plugin.p 於 /var/www/html/wp-content/plugins/woocommerce/templates/cart/cart-shipping.php 在 45 線上
+

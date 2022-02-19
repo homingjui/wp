@@ -1,0 +1,437 @@
+# Translation of Plugins - Order Delivery Date for WooCommerce - Development (trunk) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Order Delivery Date for WooCommerce - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-08-11 09:24:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Order Delivery Date for WooCommerce - Development (trunk)\n"
+
+#: welcome.php:286
+msgid "Follow %s"
+msgstr "追蹤 %s"
+
+#: welcome.php:239
+msgid "Current Offers"
+msgstr "目前優惠"
+
+#: welcome.php:231
+msgid "Meet the team"
+msgstr "與團隊聯繫"
+
+#: welcome.php:222
+msgid "View all Premium Plugins"
+msgstr "檢視所有進階版外掛"
+
+#: welcome.php:221
+msgid "Visit the Tyche Softwares Website"
+msgstr "前往 Tyche Softwares網站"
+
+#: welcome.php:218
+msgid "Getting to Know Tyche Softwares"
+msgstr "了解 Tyche Softwares"
+
+#: welcome.php:209
+msgid "View full list of differences between Lite & Pro plugin"
+msgstr "檢視簡易版&進階版外掛的詳細差異"
+
+#: welcome.php:195
+msgid "The Pro version of the plugin allows you to add different delivery settings like Same day cut-off time, Next Day cut-off time or Minimum Delivery Time for each weekday. It also allows you to add different delivery charges for different weekdays."
+msgstr "進階版外掛讓你新增不同的運送設定，如同日截止時間、次日截止時間或每個工作日的最短運送時間，也可以讓你針對不同工作日新增不同的運送收費。"
+
+#: welcome.php:193
+msgid "Different delivery settings for each weekday"
+msgstr "每個工作日有不同的運送設定"
+
+#: welcome.php:181
+msgid "The ability to synchronise deliveries to the google calendar helps administrator or store manager to manage all the things in a single calendar."
+msgstr "同步運送資訊至 Google日曆能協助管理員或商店經理在單一日曆上管理所有的事。"
+
+#: welcome.php:179
+msgid "Synchronise Deliveries with Google Calendar"
+msgstr "與 Google日曆同步"
+
+#: welcome.php:168 welcome.php:175 welcome.php:204
+msgid "Order Delivery Date for WooCommerce Lite"
+msgstr "WooCommerce訂單運送日期簡易版"
+
+#: welcome.php:160
+msgid "The provision for allowing Delivery Time along with the Delivery Date on the checkout page makes the delivery more accurate. Delivering products on customer's preferred date and time improves your customers service."
+msgstr "在結帳頁面上使用訂單時間和訂單日期規則可以讓運送更準確。在顧客偏好的日期和時間運送商品可以改善你的顧客服務。"
+
+#: welcome.php:158
+msgid "Delivery Time along with Delivery Date"
+msgstr "運送時間和運送日期"
+
+#: welcome.php:149 welcome.php:162 welcome.php:184 welcome.php:198
+msgid "Learn More"
+msgstr "進一步了解"
+
+#: welcome.php:146
+msgid "The ability to set different delivery schedule for different WooCommerce shipping zones, shipping classes and product categories is very useful for the businesses like food packet deliveries, cake shops etc which deals with delivery in different shipping zones."
+msgstr "對銷售食品套裝、蛋糕店等涉及不同運送區域運送的商店來說，可以針對不同 WooCommerce運送區域、地址和商品分類設定運送時程非常有用。"
+
+#: welcome.php:144
+msgid "Create Custom Delivery Schedules"
+msgstr "建立自訂運送排程"
+
+#: welcome.php:135
+msgid "The Order Delivery Date Pro plugin gives you features where you can allow customers to choose a Delivery Time along with Date as compared to Lite Plugin. Here are some other notable features the Pro version provides."
+msgstr "訂單運送日期進階版與簡易版相比，可以讓你的顧客可以選擇運送時間和日期。這裡還有其他更多的進階版提供專屬功能。"
+
+#: welcome.php:133
+msgid "Know more about Order Delivery Date Pro"
+msgstr "了解更多關於訂單運送日期進階版"
+
+#: welcome.php:123
+msgid "Click Here to go to Order Delivery Date Settings page"
+msgstr "點此前往訂單運送日期設定頁"
+
+#: welcome.php:121
+msgid "To start allowing customers to select their preferred delivery date, simply activate the Enable Delivery Date checkbox from under Order Delivery Date menu."
+msgstr "只要簡單的從訂單運送日期選單啟用訂單運送日期選項，就可以讓顧客選擇他們偏好的運送日期。"
+
+#: welcome.php:119
+msgid "Enable Delivery Date Capture"
+msgstr "啟用運送日期記錄"
+
+#: welcome.php:115 welcome.php:140
+msgid "Order Delivery Date Lite"
+msgstr "訂單運送日期簡易版"
+
+#: welcome.php:111
+msgid "Get Started with Order Delivery Date Lite"
+msgstr "從訂單運送日期簡易版開始"
+
+#: welcome.php:101
+msgid "Thank you for activating or updating to the latest version of Order Delivery Date Lite! If you're a first time user, welcome! You're well to accept deliveries with customer preferred delivery date. "
+msgstr "感謝您啟用或更新訂單運送日期簡易版至最新版！如果你是初次使用，非常歡迎！你將可以讓顧客選擇偏好的運送時間。"
+
+#: welcome.php:57
+msgid "Welcome to Order Delivery Date Lite"
+msgstr "歡迎使用訂單運送日期簡易版"
+
+#: welcome.php:56
+msgid "Welcome to Order Delivery Date Lite %s"
+msgstr "歡迎使用訂單運送日期簡易版 %s"
+
+#: order_delivery_date.php:375
+msgid "Booked"
+msgstr "已預定"
+
+#: order_delivery_date.php:374
+msgid "Holiday"
+msgstr "假日"
+
+#: orddd-lite-settings.php:340
+msgid "Date:"
+msgstr "日期："
+
+#: orddd-lite-settings.php:331
+msgid "Name:"
+msgstr "名稱："
+
+#: orddd-lite-settings.php:324
+msgid "Add Holiday"
+msgstr "新增假日"
+
+#: orddd-lite-process.php:284
+msgid "is a required field."
+msgstr "必填項目。"
+
+#: orddd-lite-settings.php:233
+msgid "Add the Delivery Date field on the cart page along with the Checkout page."
+msgstr "於購物車和結帳頁面新增運送日期欄位。"
+
+#: orddd-lite-settings.php:229
+msgid "Delivery Date field on Cart page:"
+msgstr "於購物車頁面顯示運送日期欄位："
+
+#. Author URI of the plugin/theme
+msgid "http://www.tychesoftwares.com/about"
+msgstr "http://www.tychesoftwares.com/about"
+
+#. Author of the plugin/theme
+msgid "Tyche Softwares"
+msgstr "Tyche Softwares"
+
+#. Description of the plugin/theme
+msgid "This plugin allows customers to choose their preferred Order Delivery Date during checkout."
+msgstr "這個外掛讓顧客可以在結帳時選擇他們偏好的訂單運送日期。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.tychesoftwares.com/store/free-plugin/order-delivery-date-on-checkout/"
+msgstr "http://www.tychesoftwares.com/store/free-plugin/order-delivery-date-on-checkout/"
+
+#. Plugin Name of the plugin/theme
+msgid "Order Delivery Date for WooCommerce (Lite version)"
+msgstr "WooCommerce訂單運送日期（簡易版）"
+
+#: order_delivery_date.php:373
+msgid "Clear"
+msgstr "清除"
+
+#: order_delivery_date.php:192
+msgid "Order Delivery Date for WooCommerce (Lite version) plugin requires WooCommerce installed and activate."
+msgstr "WooCommerce訂單運送日期（簡易版）外掛需要先啟用 WooCommerce。"
+
+#: orddd-lite-settings.php:787
+msgid "Featured Products"
+msgstr "特色商品"
+
+#: orddd-lite-settings.php:779
+msgid "Virtual Products"
+msgstr "虛擬商品"
+
+#: orddd-lite-settings.php:765
+msgid "Preview theme:"
+msgstr "預覽佈景主題："
+
+#: orddd-lite-settings.php:694
+msgid "After Order Notes"
+msgstr "於訂單備註後方"
+
+#: orddd-lite-settings.php:693
+msgid "Before Order Notes"
+msgstr "於訂單備註前方"
+
+#: orddd-lite-settings.php:692
+msgid "In Shipping Section"
+msgstr "於運送區塊"
+
+#: orddd-lite-settings.php:691
+msgid "In Billing Section"
+msgstr "於訂購區塊"
+
+#: orddd-lite-settings.php:443
+msgid "Weekdays:"
+msgstr "工作日："
+
+#: orddd-lite-settings.php:392 orddd-lite-settings.php:400
+#: orddd-lite-settings.php:408
+msgid "Save Settings"
+msgstr "儲存設定"
+
+#: orddd-lite-settings.php:384 orddd-lite-settings.php:412
+msgid "Holidays"
+msgstr "假日"
+
+#: orddd-lite-settings.php:383
+msgid "Appearance"
+msgstr "外觀"
+
+#: orddd-lite-settings.php:382
+msgid "Date Settings"
+msgstr "日期設定"
+
+#: orddd-lite-settings.php:251
+msgid "<br>Disable the Delivery Date on the Checkout page for Virtual products and Featured products."
+msgstr "<br>對虛擬商品及特色商品在結帳頁面停用運送日期。"
+
+#: orddd-lite-settings.php:247
+msgid "Disable the Delivery Date Field for:"
+msgstr "停用運送日期欄位於："
+
+#: orddd-lite-settings.php:242
+msgid "Select the theme for the calendar which blends with the design of your website."
+msgstr "選擇適合你網站設計的日曆佈景主題。"
+
+#: orddd-lite-settings.php:238
+msgid "Theme:"
+msgstr "佈景主題："
+
+#: orddd-lite-settings.php:224
+msgid "</br>The Delivery Date field will be displayed in the selected section.</br><i>Note: WooCommerce automatically hides the Shipping section fields for Virtual products.</i>"
+msgstr "</br>運送日期欄位將會顯示在選取的區塊。</br><i>備註：WooCommerce會自動對虛擬商品隱藏運送區塊。</i>"
+
+#: orddd-lite-settings.php:220
+msgid "Field placement on the Checkout page:"
+msgstr "放置欄位於結帳頁面："
+
+#: orddd-lite-settings.php:215
+msgid "The number of months to be shown on the calendar."
+msgstr "顯示於日曆上的月份數量。"
+
+#: orddd-lite-settings.php:211
+msgid "Number of Months:"
+msgstr "月份數量："
+
+#: orddd-lite-settings.php:206
+msgid "Choose the note to be displayed below the delivery date field on checkout page."
+msgstr "選擇在結帳頁面顯示運送日期欄位下方的備註。"
+
+#: orddd-lite-settings.php:202
+msgid "Field Note Text:"
+msgstr "欄位備註文字："
+
+#: orddd-lite-settings.php:197
+msgid "Choose the placeholder text that is to be displayed for the field on checkout page."
+msgstr "選擇顯示在結帳頁面上欄位的預留文字。"
+
+#: orddd-lite-settings.php:193
+msgid "Field Placeholder Text:"
+msgstr "欄位預設文字："
+
+#: orddd-lite-settings.php:188
+msgid "Choose the label that is to be displayed for the field on checkout page."
+msgstr "\t選擇顯示在結帳頁面上欄位的標籤文字。"
+
+#: orddd-lite-settings.php:184
+msgid "Field Label:"
+msgstr "欄位標籤："
+
+#: orddd-lite-settings.php:179
+msgid "Choose the first day of week displayed on the Delivery Date calendar."
+msgstr "選擇顯示在運送日期日曆上每個星期的第一天。"
+
+#: orddd-lite-settings.php:175
+msgid "First Day of Week:"
+msgstr "每星期的第一天："
+
+#: orddd-lite-settings.php:170
+msgid "The format in which the Delivery Date appears to the customers on the checkout page once the date is selected."
+msgstr "消費者在結帳頁面選擇日期後，要顯示的運送日期格式。"
+
+#: orddd-lite-settings.php:166
+msgid "Date Format:"
+msgstr "日期格式："
+
+#: orddd-lite-settings.php:161
+msgid "Choose a Language."
+msgstr "選擇語系。"
+
+#: orddd-lite-settings.php:157
+msgid "Calendar Language:"
+msgstr "日曆語系："
+
+#: orddd-lite-settings.php:150
+msgid "Calendar Appearance"
+msgstr "日曆外觀"
+
+#: orddd-lite-settings.php:96
+msgid "If selected, then the Minimum Delivery Time (in hours) will be applied on the non working weekdays which are unchecked in Delivery Weekdays. If unchecked, then it will not be applied. For example, if Minimum Delivery Time (in hours) is set to 48 hours and Saturday is disabled for delivery. Now if a customer visits the website on Firday, then the first available date will be Monday and not Sunday."
+msgstr "如果選取此項，則最短運送時間（小時）將被使用在工作日運送日中未勾選的非工作日，反之則將不被使用。例如，最短運送時間（小時）設為 48小時且星期六停止運送，而顧客在星期五訪問網站，第一個可用日期將會是星期一而不是星期天。"
+
+#: orddd-lite-settings.php:92
+msgid "Apply Minimum Delivery Time for non working weekdays:"
+msgstr "適用於非工作日的最短運送時間："
+
+#: orddd-lite-settings.php:87
+msgid "Auto-populate first available Delivery date when the checkout page loads."
+msgstr "於結帳頁面載入時自動填寫第一個可用的運送日期。"
+
+#: orddd-lite-settings.php:83
+msgid "Auto-populate first available Delivery date:"
+msgstr "自動填寫第一個可用的運送日期："
+
+#: orddd-lite-settings.php:78
+msgid "Enable default sorting of orders (in descending order) by Delivery Date on WooCommerce -> Orders page"
+msgstr "在 WooCommerce ->訂單頁面中依據運送日期啟用預設的訂單排序（降冪排序）"
+
+#: orddd-lite-settings.php:74
+msgid "Sort on WooCommerce Orders Page:"
+msgstr "於 WooCommerce訂單頁面排序："
+
+#: orddd-lite-settings.php:69
+msgid "Maximum deliveries/orders per day."
+msgstr "每天最多的運送／訂單數量。"
+
+#: orddd-lite-settings.php:65
+msgid "Lockout date after X orders:"
+msgstr "於 X 訂單後鎖定日期："
+
+#: orddd-lite-settings.php:60
+msgid "Selection of delivery date on the checkout page will become mandatory."
+msgstr "於結帳頁面的運送日期選項將會是必填欄位。"
+
+#: orddd-lite-settings.php:56
+msgid "Mandatory field?:"
+msgstr "必填欄位？："
+
+#: orddd-lite-settings.php:51
+msgid "Number of dates available for delivery."
+msgstr "可運送的日期數量。"
+
+#: orddd-lite-settings.php:47
+msgid "Number of dates to choose:"
+msgstr "可選擇的日期數量："
+
+#: orddd-lite-settings.php:42
+msgid "Minimum number of hours required to prepare for delivery."
+msgstr "運送準備所需要的最短時數。"
+
+#: orddd-lite-settings.php:38
+msgid "Minimum Delivery time (in hours):"
+msgstr "最短運送時間（小時）："
+
+#: orddd-lite-settings.php:33
+msgid "Select weekdays for delivery."
+msgstr "選擇運送工作日。"
+
+#: orddd-lite-settings.php:29
+msgid "Delivery Days:"
+msgstr "運送日期："
+
+#: orddd-lite-settings.php:24
+msgid "Enable Delivery Date capture on the checkout page."
+msgstr "於結帳頁面啟用運送日期記錄。"
+
+#: orddd-lite-settings.php:20
+msgid "Enable Delivery Date:"
+msgstr "啟用運送日期："
+
+#: orddd-lite-settings.php:13 orddd-lite-settings.php:377
+msgid "Order Delivery Date Settings"
+msgstr "訂單運送日期設定"
+
+#: orddd-lite-config.php:126 uninstall.php:27
+msgid "Saturday"
+msgstr "星期六"
+
+#: orddd-lite-config.php:125 uninstall.php:26
+msgid "Friday"
+msgstr "星期五"
+
+#: orddd-lite-config.php:124 uninstall.php:25
+msgid "Thursday"
+msgstr "星期四"
+
+#: orddd-lite-config.php:123 uninstall.php:24
+msgid "Wednesday"
+msgstr "星期三"
+
+#: orddd-lite-config.php:122 uninstall.php:23
+msgid "Tuesday"
+msgstr "星期二"
+
+#: orddd-lite-config.php:121 uninstall.php:22
+msgid "Monday"
+msgstr "星期一"
+
+#: orddd-lite-config.php:120 uninstall.php:21
+msgid "Sunday"
+msgstr "星期日"
+
+#: class-view-holidays.php:83
+msgid "Date"
+msgstr "日期"
+
+#: class-view-holidays.php:82
+msgid "Name"
+msgstr "名稱"
+
+#: class-view-holidays.php:42
+msgid "Delete"
+msgstr "刪除"
+
+#: class-view-holidays.php:33
+msgid "holidays"
+msgstr "假日"
+
+#: class-view-holidays.php:32
+msgid "holiday"
+msgstr "假日"
